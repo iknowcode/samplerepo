@@ -6,6 +6,6 @@ $fn = function( $input ){
 
 };
 
-$fn('This is an Input line.');
+$fn('This input line has been changed.');
 
 ?>
