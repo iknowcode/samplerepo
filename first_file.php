@@ -8,6 +8,6 @@ $fn = function( $input ){
 
 $fn('This input line is the original.');
 $fn('This line added on July 20, 2021');
-$fn('Recently added');
+$fn('From new branch');
 
 ?>
